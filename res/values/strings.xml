@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">正在读取进行验证正在读取进行验证</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="msg_reading_permissions_dialog">正在读取系统权限</string>
+    <string name="title_waiting_dialog">请稍候</string>
+    <string name="msg_doing_compare_dialog">正在读取进行验证</string>
+    <string name="show_same_uid">与其他应用有相同UID,签名不符</string>
+    <string name="show_low_sdk">系统SDK版本低</string>
+    <string name="show_no_feature">系统没有所需feature</string>
+    <string name="show_no_library">系统没有所需library</string>
+    <string name="text_uid">配置UID:</string>
+    <string name="text_targetSDK">最低版本SDK:</string>
+    <string name="text_filePath">apk文件路径:</string>
+    <string name="text_version">应用版本号:</string>
+    <string name="group_permissions">权限</string>
+    <string name="group_features">功能</string>
+    <string name="group_libraries">关联库</string>
+    <string name="menu_refresh">刷新</string>
+</resources>
